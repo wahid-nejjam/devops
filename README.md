@@ -1,3 +1,3 @@
 # devops
-explication
-formation git
+
+faite attention
